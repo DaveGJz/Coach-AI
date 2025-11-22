@@ -3,7 +3,7 @@ import streamlit as st
 import time
 import re
 import openai
-from data_modelf import (
+from data_model import (
     df_stats, model, label_encoders,
     predict_next_week_position, generate_analysis,
     plot_player_comparison, compute_player_stats, monte_carlo_ppr
