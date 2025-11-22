@@ -6,7 +6,7 @@ import joblib
 import nflreadpy as nfl
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
-from xgboost import XGBRegressor
+from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error
 import altair as alt
 
