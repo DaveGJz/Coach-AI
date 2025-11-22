@@ -1,0 +1,8 @@
+streamlit
+openai==0.28
+pandas
+numpy
+joblib
+nflreadpy
+altair
+scikit-learn
