@@ -12,10 +12,10 @@ from data_model import (
 # ---------------------------
 # Configuración de la página
 # ---------------------------
-st.set_page_config(page_title="Fantasy PPR Advisor LLM", layout="wide")
-st.title("🏈 Fantasy PPR Advisor – Conversacional")
+st.set_page_config(page_title="AI Coach", layout="wide")
+st.title("🏈 AI Coach")
 st.write("""
-Bienvenido al Fantasy PPR Advisor. 
+Bienvenido a AI Coach. 
 Escribe tu pregunta sobre a quién iniciar la próxima semana, por ejemplo: `Hurts o Allen`.
 La app te dará:
 - Predicción PPR estimada
